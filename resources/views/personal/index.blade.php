@@ -33,7 +33,7 @@
                     <table id="miTabla" class="table table-bordered table-striped">
                         <thead class="thead">
                             <tr>
-                                <th hidden>No</th>
+                                <th hidden>ID</th>
                                 <th>Tipo Documento</th>
                                 <th>DNI</th>
                                 <th>Nombres</th>
